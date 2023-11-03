@@ -1,1 +1,13 @@
-# Hypermedia-
+Els usuaris als quals va dirigit el currículum seran, en concret, els diferents dirigents del club Real Betis Balompié, tant els directors esportius com l’entrenador o inclús el capità de l'equip, és a dir, tots els membres que tinguin la capacitat de prendre decisions sobre les incorporacions a l'equip de futbol.
+
+La idea és que amb la informació proporcionada, els dirigents del Real Betis Balompié puguin fer-se una idea de les capacitats que té el jugador, centrades en la defensa, que és la seva especialitat. Això inclou destacar les habilitats en les quals el jugador brilla més i proporcionar un resum de la seva història futbolística que pot donar una idea de com ha estat la trajectòria del jugador (si ha millorat o empitjorat o si simplement s’ha mantingut estable). Com que es tracta d'un jugador veterà, cal destacar també el seu extens palmarès, que crida bastant l'atenció.
+
+Pel que fa a la fotografia, a Espanya comença a no ser obligatori posar-la per evitar problemes relacionats amb el racisme o el rebuig basat en l'aparença física. No obstant això, en aquest cas, com que es tracta d'una figura pública, no està de més incloure la fotografia ja que dóna la impressió que no hi ha res a amagar.
+
+També s'ha afegit un apartat d'interessos, ja que en el cas del Real Betis és important que els jugadors estiguin realment còmodes a l'equip i que tinguin ganes de jugar, ja que el rendiment dels jugadors millora quan se senten motivats. Aquest apartat és ideal per demostrar que el vostre interès no és només monetari.
+
+Pel que fa al disseny de la pàgina, s'han utilitzat els colors verd, blanc, blau i negre. S'ha triat aquests colors perquè s'ajusten als colors del Betis. El fons és de color blanc, que és molt formal i comú en molts currículums. El verd, que també és un dels colors del Betis, es fa servir a la columna de l'esquerra per destacar l'afiliació a l'equip. Els títols s'han escrit en color negre per destacar-se sobre els colors verd i blanc. A la columna de la dreta, els títols s'han escrit en color blau, que, combinat amb el blanc, representa els colors de Grècia, que és la nacionalitat del subjecte.
+
+En relació a la lletra, s'ha utilitzat Times New Roman bàsicament perquè és el format que dicta l'IEEE, ja que es considera més agradable a la vista per a les persones. Pel que fa al tamany de les lletres, no s'ha seguit estrictament el format de l'IEEE ja que l'objectiu principal no és fer que sigui visualment atractiu, sinó destacar certs aspectes del currículum.
+
+Link al exercici figma: https://www.figma.com/file/6T5xLT4mQKdcxCHMN8TGXK/Gerard-Tripiana-B
