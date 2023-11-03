@@ -1,0 +1,81 @@
+/* Estilos generales */
+body {
+    font-family: Times New Roman;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 0px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+    gap: 20px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.name {
+    flex: 1;
+}
+
+
+.image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: #347436;
+}
+
+.image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+h1 {
+    font-size: 36px; 
+    color: #0077B5;
+	-webkit-text-stroke: 2px black;
+    font-weight: bold; 
+    margin-bottom: 10px; 
+	
+}
+
+h2 {
+    font-size: 20px;
+    color: #0077B5;
+	 
+}
+
+.column-left {
+    grid-column: 1;
+    padding: 20px;
+    background-color: #347436;
+    margin: none;
+}
+
+.column-left .section {
+    margin: 20px 0;
+    color: white; 
+}
+
+.column-left .section-header {
+    font-weight: bold;
+    color: black; 
+}
+.column-right {
+    grid-column: 2;
+}
